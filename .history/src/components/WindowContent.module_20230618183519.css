@@ -147,6 +147,7 @@
   width: 8px;
   height: 8px;
   margin-left: 10px;
+  margin-right: -8px;
 }
 .webstiteRedesign {
   cursor: pointer;

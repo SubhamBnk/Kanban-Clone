@@ -869,7 +869,9 @@
   flex: 1;
   flex-direction: column;
 }
-
+.desktop-wrapper {
+  margin-left: 10px; /* Adjust the value as needed */
+}
 .desktop {
   position: relative;
   background-color: var(--color-white);
@@ -881,7 +883,6 @@
   font-size: 46px;
   color: var(--color-gray);
   font-family: var(--font-inter);
-  
 }
 .menu{
   position: absolute;

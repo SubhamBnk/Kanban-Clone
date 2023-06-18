@@ -153,13 +153,15 @@
   border: 0;
   padding: 0;
   background-color: transparent;
-  width: auto; 
-  height: 19px;
+  width: 152px;
+  height: 1px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-base);
+  font-size: 16px;
+
 }
 .designSystemChild {
   position: relative;
@@ -305,8 +307,4 @@
   transition: all 0.7s ease-in-out;
 
   }
-}
-
-.customFontSize {
-  font-size: 16px; /* Adjust the value as needed */
 }

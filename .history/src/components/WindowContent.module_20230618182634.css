@@ -57,7 +57,7 @@
 }
 .home {
   position: relative;
-  font-size: var(--font-size-base);
+  
   font-weight: 500;
   font-family: var(--font-inter);
   color: var(--color-slategray);
@@ -153,7 +153,7 @@
   border: 0;
   padding: 0;
   background-color: transparent;
-  width: auto; 
+  width: 162px;
   height: 19px;
   display: flex;
   flex-direction: row;

@@ -84,7 +84,7 @@ const ProjectMContainer = (props) => {
       </div>
       <button className={styles.webstiteRedesign}>
         <div className={styles.webstiteRedesignChild} />
-        <div className={`${styles.home} ${styles.customFontSize}`}>Website Redesign</div>
+          <div className={styles.home}>Website Redesign</div>
         </button>
       <button className={styles.designSystem}>
         <div className={styles.designSystemChild} />

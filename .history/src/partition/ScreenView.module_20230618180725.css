@@ -881,7 +881,7 @@
   font-size: 46px;
   color: var(--color-gray);
   font-family: var(--font-inter);
-  
+  transform: translateX(10px);
 }
 .menu{
   position: absolute;

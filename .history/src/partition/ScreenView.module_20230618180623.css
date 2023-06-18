@@ -869,7 +869,6 @@
   flex: 1;
   flex-direction: column;
 }
-
 .desktop {
   position: relative;
   background-color: var(--color-white);
@@ -881,7 +880,6 @@
   font-size: 46px;
   color: var(--color-gray);
   font-family: var(--font-inter);
-  
 }
 .menu{
   position: absolute;

@@ -869,7 +869,6 @@
   flex: 1;
   flex-direction: column;
 }
-
 .desktop {
   position: relative;
   background-color: var(--color-white);

@@ -153,7 +153,7 @@
   border: 0;
   padding: 0;
   background-color: transparent;
-  width: auto; 
+  width: 162px;
   height: 19px;
   display: flex;
   flex-direction: row;
@@ -282,7 +282,7 @@
   align-self: stretch;
   border-right: 1px solid var(--color-whitesmoke-200);
   box-sizing: border-box;
-  width: 240px;
+  width: 220px;
   display: flex;
   flex-direction: column;
   padding: var(--padding-13xl) var(--padding-2xs);
@@ -305,8 +305,4 @@
   transition: all 0.7s ease-in-out;
 
   }
-}
-
-.customFontSize {
-  font-size: 16px; /* Adjust the value as needed */
 }
